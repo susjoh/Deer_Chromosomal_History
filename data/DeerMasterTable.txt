@@ -1,0 +1,56 @@
+Species	CommonName	2n	FN	A.Acro	A.Meta	X	Y	No.Refs	Notes	Locale	Synonym
+Alces alces	elk	68	74	62	4	SM	SM	8		Eurasia	
+Alces americanus	moose	70	74	66	2	M	SM	2		North America	
+Axis axis	chital	66	70	60	4	A	A	1		India	
+Axis kuhlii	Bawean deer									Indonesia	
+Axis porcinus	hog deer	68	70	64	2	A	A	4		South and South East Asia	
+Blastocerus dichotomus	marsh deer	66	74	58	6	SM	SM	2		South America	
+Capreolus capreolus	western roe deer	70	42	68	0	SM	SM	8		Eurasia	
+Capreolus pygargus	eastern roe deer	70+4B	76	72	0	SM	ST	1		North East Asia	
+Capreolus pygargus	eastern roe deer	74/80	76/80SM	80	0	-	A	1		North East Asia	
+Cervus elaphus	red deer	68	70	64	2	A	SM	15	in C.E.elaphus, canadensis, macneilli, xanthophygus	Eurasia	
+Cervus elaphus	red deer	66/67	70	60/62	4/3	A	SM	1	In C.e.bactrianus	Eurasia	
+Cervus nippon	sika deer	67	70	62	3	A	SM	2	In C.n.nippon	East Asia	
+Cervus nippon	sika deer	68	70	64	2	A	SM	6	In C.n.yakushima, centralis, yesoensis, nippon	East Asia	
+Cervus nippon	sika deer	62	70	52	8	A	-	1	In C.n.nippon	East Asia	
+Cervus nippon	sika deer	66	70	60	4	A	A	1	In C.n.nippon	East Asia	
+Cervus nippon	sika deer	64/68	70	56/64	6/2	A	SM	1	In C.n.hortulorum	East Asia	
+Cervus nippon	sika deer	66	70	60	4	A	M/A	1	In C.n.hortulorum	East Asia	
+Cervus nippon	sika deer	65/67	70	58/62	5/3	A	SM	1	In C.n.hortulorum	East Asia	
+Dama dama	European fallow deer	68	70	64	2	A	SM	9		Western Eurasia	
+Dama mesopotamica	Persian fallow deer									Middle East	
+Elaphodus cephalophus	tufted deer	46/48	52	38/42	4/6	A	A	2		China	
+Elaphurus davidianus	Père David's deer	68	70	64	2	A	M	5		China	
+Hippocamelus antisensis	Peruvian guemal									South America	
+Hippocamelus bisulcus	Chilean guemal	70	74	66	2	M	M	1		South America	
+Hydropotes inermis	chinese water deer	70	70	68	0	A	A	3		East Asia	
+Mazama americana	red brocket	68	74	62	2	SM	M	2		South America	Mazama.a.temana
+Mazama americana	red brocket	52+5B	51	48+5	2	SM	M	1		South America	Mazama.a.temana
+Mazama americana	red brocket	49/50	72	28	20	SM	M	1		South America	Mazama.a.erxleben
+Mazama bororo	small red brocket									South America	
+Mazama gouazoupira	gray brocket	70	70	68	-	A	A	1		South America	
+Mazama nana	pygmy brocket									South America	
+Mazama nemorivaga	gray brocket									South America	
+Mazama rufina	little red brocket									South America	
+Muntiacus crinifrons	black muntjac	8/9	14	2	4	SM	2A	1		South East China	
+Muntiacus feae	Fea's muntjac	13	16	10	1	M	-	1		South East Asia	
+Muntiacus gongshanensis	Gongshan muntjac									Tibet and northern Myanmar	
+Muntiacus muntjak	Indian muntjac	6/7	10	-	4	SM	2A	9	vaginalis group	South and South East Asia	
+Muntiacus muntjak	Indian muntjac	8	14	2	4	SM	2A	1	muntjak group	South and South East Asia	
+Muntiacus reevesi	Chinese muntjac	46	46	44	0	A	SM	4		China and Taiwan	
+Muntiacus vuquangensis	giant muntjac									Vietnam	
+Odocoileus hemionus	mule deer	70	74	66	2	M	M	3		North America	
+Odocoileus virginianus	white-tailed deer	70	74	66	2	M	M	4		North and South America	
+Ozotoceros bezoarticus	pampas deer	68	74	62	4	SM	SM	3		South America	
+Przewalskium albirostris	Thorold's deer, white-lipped neer	66	70	60	4	A	SM	1		Tibet	Cervus albirostris
+Pudu mephistophiles	northern pudu									South America	
+Pudu puda	southern pudu, pygmy deer	70	74	66	2	M	SM	1		South America	
+Rangifer tarandus	reindeer, caribou	70	74	66	2	M	A	5		Arctic Circumpolar	
+Rucervus duvaucelii	barasingha									India	
+Rucervus eldii	Eld's deer	58	70	44	12	A	-	1		South East Asia	Cervus eldii
+Rusa alfredi	Visayan spotted deer									Philippines	Cervus alfredi
+Rusa timorensis	Timor deer	60	70	48	10	A	A	3		Indonesia	Cervus timorensis
+Rusa unicolor	sambar	58	70	44	12	A	A			South East Asia	Cervus unicolor
+Rusa unicolor	sambar	64/65	70	56/58	6/5	A	SM			South East Asia	Cervus unicolor
+Rusa unicolor	sambar	60	70	64	2	A	A			South East Asia	Cervus unicolor
+Rusa unicolor	sambar	62	70	52	8	A	SM			South East Asia	Cervus unicolor
